@@ -1,4 +1,8 @@
 streamlit
 numpy
+pandas
 scikit-learn
-python -m streamlit run app.py
+joblib
+shap==0.44.0
+plotly
+fpdf
